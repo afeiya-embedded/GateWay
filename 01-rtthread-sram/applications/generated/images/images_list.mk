@@ -1,0 +1,1 @@
+GEN_CSRCS += _beepoff_alpha_85x50.c _beepon_alpha_85x50.c _cpu_alpha_85x50.c
