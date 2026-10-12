@@ -1,0 +1,1 @@
+GEN_CSRCS += _led1off_ARGB8565_85x50.c _led1on_ARGB8565_85x50.c _led2off_ARGB8565_85x50.c _led2on_ARGB8565_85x50.c _beepoff_ARGB8565_85x50.c _beepon_ARGB8565_85x50.c _relayoff_ARGB8565_85x50.c _relayon_ARGB8565_85x50.c _temp_ARGB8565_85x50.c _humi_ARGB8565_85x50.c _vol_ARGB8565_85x50.c _cur_ARGB8565_85x50.c _pwr_ARGB8565_85x50.c
