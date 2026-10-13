@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/iot/ota_downloader", 
+  "ver": "v1.0.0", 
+  "name": "OTA_DOWNLOADER"
+ }, 
+ {
+  "path": "/packages/tools/EasyFlash", 
+  "ver": "v4.1.0", 
+  "name": "EASYFLASH"
+ }, 
+ {
+  "path": "/packages/tools/ulog_easyflash", 
+  "ver": "v0.2.0", 
+  "name": "ULOG_EASYFLASH"
+ }
+]
