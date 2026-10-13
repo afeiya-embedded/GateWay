@@ -1,0 +1,32 @@
+[
+ {
+  "path": "/packages/iot/webclient", 
+  "ver": "v2.2.0", 
+  "name": "WEBCLIENT"
+ }, 
+ {
+  "path": "/packages/iot/at_device", 
+  "ver": "latest", 
+  "name": "AT_DEVICE"
+ }, 
+ {
+  "path": "/packages/iot/ota_downloader", 
+  "ver": "v1.0.0", 
+  "name": "OTA_DOWNLOADER"
+ }, 
+ {
+  "path": "/packages/language/JSON/cJSON", 
+  "ver": "v1.7.17", 
+  "name": "CJSON"
+ }, 
+ {
+  "path": "/packages/tools/EasyFlash", 
+  "ver": "v4.1.0", 
+  "name": "EASYFLASH"
+ }, 
+ {
+  "path": "/packages/tools/ulog_easyflash", 
+  "ver": "v0.2.0", 
+  "name": "ULOG_EASYFLASH"
+ }
+]
